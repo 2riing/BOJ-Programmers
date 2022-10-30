@@ -1,7 +1,7 @@
 import sys
 sys.stdin = open('input.txt')
 
-def DFS(start, ):
+def DFS(start):
     if len(arr) == M:
         print(*arr)
         return
