@@ -11,4 +11,3 @@ def solution(n, stations, w):
             s += 2 * w + 1
             answer += 1
     return answer
-[출처] 기지국 설치 python|작성자 2riing
