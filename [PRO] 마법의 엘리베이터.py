@@ -24,3 +24,5 @@ def solution(storey):
             else:
                 answer += int(cur)
     return answer
+
+https://blog.naver.com/2riing/223086065883
